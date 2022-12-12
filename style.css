@@ -1,0 +1,14 @@
+/* METHOD 1 */
+
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* METHOD 1 */
+
+.parent {
+    display: grid;
+    place-items: center;
+}
